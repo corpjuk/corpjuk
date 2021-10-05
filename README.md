@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corpjuk
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... react, .net, django, node
-- 💞️ I’m looking to collaborate on ... staffing, ecommerce
+- 👀 I’m interested in ... veganism, climate change, repairing the Earth
+- 🌱 I’m currently learning ... Python, Django
+- 💞️ I’m looking to collaborate on ... vegan activism, Django/Python projects
 - 📫 How to reach me ...
 
 <!---
