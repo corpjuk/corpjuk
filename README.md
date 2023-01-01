@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @corpjuk
 - 👀 I’m interested in ... veganism, climate change, repairing the Earth
-- 🌱 I’m currently creating and scripting in Python, Django
+- 🌱 I’m currently creating and scripting in Python, Django, htmx
 - 💞️ I’m looking to collaborate on ... Django/Flask/Python projects, vegan activism
 - 📫 How to reach me ... 
 
